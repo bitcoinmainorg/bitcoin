@@ -1,7 +1,7 @@
-Bitcoin Core integration/staging tree
+Bitcoin Main integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://bitcoinmain.org
 
 What is Bitcoin?
 ----------------
